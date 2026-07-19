@@ -27,7 +27,3 @@ Next.js + Supabase + Stripe bases, ready to ship (SaaS Starter, LaunchProof).
 [LinkedIn](https://www.linkedin.com/in/maxyull) · [X / @Maxyull_](https://x.com/Maxyull_)
 
 Got an app to unblock or build? Message me.
-
----
-
-![Maxyull's GitHub stats](https://github-readme-stats.vercel.app/api?username=Maxyull&show_icons=true&include_all_commits=true&hide_border=true)
