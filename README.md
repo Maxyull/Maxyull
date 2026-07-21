@@ -4,9 +4,11 @@
 
 My focus: taking projects (often started with an AI builder like Lovable or Bolt) from demo to production — the part where real Row Level Security, auth, billing and monitoring decide whether an app survives real users.
 
-### What I've built
+### What I'm building
 
-**[Black Desert Idle](https://github.com/Maxyull/black-desert-idle)** — an idle game I built and run solo. ~945 commits.
+**[Occulta](https://occulta.fr)** — a SaaS that strips personal data (PII) *before* anything is sent to an AI. Built for lawyers and confidentiality-bound professions (GDPR, EU AI Act). Next.js · Supabase · Stripe, multi-provider LLM.
+
+**[Black Desert Idle](https://github.com/maxyull/black-desert-idle)** — an idle game I built and run solo. ~945 commits.
 
 - 34-page admin panel, public leaderboard, patch notes with karma voting
 - Supabase for real: RLS, Edge Functions, pg_cron
@@ -19,11 +21,16 @@ My focus: taking projects (often started with an AI builder like Lovable or Bolt
 
 ### Products
 
-Production-ready boilerplates for developers → **[maxyull.gumroad.com](https://maxyull.gumroad.com)**
-Next.js + Supabase + Stripe bases, ready to ship (SaaS Starter, LaunchProof).
+Production-ready boilerplates and tools for developers → **[maxyull.gumroad.com](https://maxyull.gumroad.com)**
+Next.js + Supabase + Stripe bases, ready to ship (SaaS Starter, LaunchProof, The Developer's AI Prompt Pack).
+
+### Activity
+
+![Stats](https://github-readme-stats.vercel.app/api?username=maxyull&show_icons=true&hide_border=true&count_private=true)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maxyull&layout=compact&hide_border=true)
 
 ### Reach me
 
-[LinkedIn](https://www.linkedin.com/in/maxyull) · [X / @Maxyull_](https://x.com/Maxyull_)
+[Occulta](https://occulta.fr) · [LinkedIn](https://www.linkedin.com/in/maxyull) · [X / @Maxyull_](https://x.com/Maxyull_) · [Gumroad](https://maxyull.gumroad.com)
 
 Got an app to unblock or build? Message me.
