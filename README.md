@@ -26,6 +26,10 @@ Next.js + Supabase + Stripe bases, ready to ship (SaaS Starter, LaunchProof, The
 
 ### Reach me
 
-[Occulta](https://occulta.fr) · [LinkedIn](https://www.linkedin.com/in/maxyull) · [X / @Maxyull_](https://x.com/Maxyull_) · [Gumroad](https://maxyull.gumroad.com)
+**Contact** — [LinkedIn](https://www.linkedin.com/in/maxyull) · [Instagram](https://www.instagram.com/maxyull/)
+
+**Content** — [YouTube](https://www.youtube.com/@Maxyull) · [TikTok](https://www.tiktok.com/@maxyull) · [X](https://x.com/Maxyull_) · [Threads](https://www.threads.net/@maxyull) · [Reddit](https://www.reddit.com/user/Maxyull)
+
+**Shop** — [Gumroad](https://maxyull.gumroad.com) · [Fiverr](https://www.fiverr.com/maxyull) · [ComeUp](https://comeup.com/@maxyull) · [Product Hunt](https://www.producthunt.com/@maxyull)
 
 Got an app to unblock or build? Message me.
