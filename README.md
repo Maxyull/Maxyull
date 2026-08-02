@@ -24,11 +24,6 @@ My focus: taking projects (often started with an AI builder like Lovable or Bolt
 Production-ready boilerplates and tools for developers → **[maxyull.gumroad.com](https://maxyull.gumroad.com)**
 Next.js + Supabase + Stripe bases, ready to ship (SaaS Starter, LaunchProof, The Developer's AI Prompt Pack).
 
-### Activity
-
-![Stats](https://github-readme-stats.vercel.app/api?username=maxyull&show_icons=true&hide_border=true&count_private=true)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maxyull&layout=compact&hide_border=true)
-
 ### Reach me
 
 [Occulta](https://occulta.fr) · [LinkedIn](https://www.linkedin.com/in/maxyull) · [X / @Maxyull_](https://x.com/Maxyull_) · [Gumroad](https://maxyull.gumroad.com)
