@@ -32,6 +32,15 @@ Next.js + Supabase + Stripe bases, ready to ship (SaaS Starter, LaunchProof, The
 ### Activity
 
 <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./cards/stats-dark.svg">
+  <img alt="GitHub stats" src="./cards/stats-light.svg" height="180">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./cards/langs-dark.svg">
+  <img alt="Most used languages" src="./cards/langs-light.svg" height="180">
+</picture>
+
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=Maxyull&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D">
   <img alt="Contribution streak" src="https://streak-stats.demolab.com/?user=Maxyull&hide_border=true&date_format=j%20M%5B%20Y%5D">
 </picture>
