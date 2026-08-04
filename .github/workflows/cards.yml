@@ -63,6 +63,27 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
           fail_on_error: "true"
 
+      # Same reasoning as the cards above, applied to the two services this
+      # workflow does not render itself: fetched here, committed, and served by
+      # GitHub. camo (GitHub's image proxy) gives up on streak-stats when it is
+      # slow, which showed as a broken image on the profile. A failure here is
+      # not fatal: the step is skipped and the previously committed SVG stays.
+      - name: Fetch the streak and activity cards
+        continue-on-error: true
+        run: |
+          set -uo pipefail
+          fetch() {
+            curl -sS --fail --retry 3 --retry-delay 5 --max-time 90 "$1" -o "$2.tmp" \
+              && mv "$2.tmp" "$2" \
+              || { echo "::warning::$2 not refreshed, keeping the committed one"; rm -f "$2.tmp"; }
+          }
+          streak="https://streak-stats.demolab.com/?user=Maxyull&hide_border=true&date_format=j%20M%5B%20Y%5D"
+          graph="https://github-readme-activity-graph.vercel.app/graph?username=Maxyull&hide_border=true&area=true"
+          fetch "$streak&theme=default"          cards/streak-light.svg
+          fetch "$streak&theme=github-dark-blue" cards/streak-dark.svg
+          fetch "$graph&theme=minimal"           cards/graph-light.svg
+          fetch "$graph&theme=github-compact"    cards/graph-dark.svg
+
       - name: Commit the cards
         run: |
           git config user.name "github-actions[bot]"
