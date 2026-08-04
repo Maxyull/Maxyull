@@ -41,13 +41,13 @@ Next.js + Supabase + Stripe bases, ready to ship (SaaS Starter, LaunchProof, The
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=Maxyull&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D">
-  <img alt="Contribution streak" src="https://streak-stats.demolab.com/?user=Maxyull&hide_border=true&date_format=j%20M%5B%20Y%5D">
+  <source media="(prefers-color-scheme: dark)" srcset="./cards/streak-dark.svg">
+  <img alt="Contribution streak" src="./cards/streak-light.svg">
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Maxyull&theme=github-compact&hide_border=true&area=true">
-  <img alt="Contribution graph over the last year" src="https://github-readme-activity-graph.vercel.app/graph?username=Maxyull&theme=minimal&hide_border=true&area=true">
+  <source media="(prefers-color-scheme: dark)" srcset="./cards/graph-dark.svg">
+  <img alt="Contribution graph over the last year" src="./cards/graph-light.svg">
 </picture>
 
 ### Reach me
