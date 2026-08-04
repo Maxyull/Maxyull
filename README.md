@@ -1,5 +1,10 @@
 # Maxime Lacoste · `maxyull`
 
+[![Profile views](https://komarev.com/ghpvc/?username=Maxyull&color=0e75b6&style=flat&label=Profile+views)](https://github.com/Maxyull)
+[![Website](https://img.shields.io/website?url=https%3A%2F%2Fmaxyull.fr&label=maxyull.fr)](https://maxyull.fr)
+[![Gumroad](https://img.shields.io/badge/Gumroad-shop-FF90E8?logo=gumroad&logoColor=black)](https://maxyull.gumroad.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-maxyull-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maxyull)
+
 **Full-stack developer, freelance.** I build, fix, and ship web apps and SaaS — solo, and fast.
 
 My focus: taking projects (often started with an AI builder like Lovable or Bolt) from demo to production — the part where real Row Level Security, auth, billing and monitoring decide whether an app survives real users.
@@ -23,6 +28,18 @@ My focus: taking projects (often started with an AI builder like Lovable or Bolt
 
 Production-ready boilerplates and tools for developers → **[maxyull.gumroad.com](https://maxyull.gumroad.com)**
 Next.js + Supabase + Stripe bases, ready to ship (SaaS Starter, LaunchProof, The Developer's AI Prompt Pack).
+
+### Activity
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=Maxyull&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D">
+  <img alt="Contribution streak" src="https://streak-stats.demolab.com/?user=Maxyull&hide_border=true&date_format=j%20M%5B%20Y%5D">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Maxyull&theme=github-compact&hide_border=true&area=true">
+  <img alt="Contribution graph over the last year" src="https://github-readme-activity-graph.vercel.app/graph?username=Maxyull&theme=minimal&hide_border=true&area=true">
+</picture>
 
 ### Reach me
 
